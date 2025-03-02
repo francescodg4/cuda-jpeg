@@ -1,0 +1,11 @@
+*.o
+
+# Ignore images and raw data
+*.bin
+*.bmp
+*.jpeg
+*.jpg
+*.zip
+
+# Ignore emacs files
+*~

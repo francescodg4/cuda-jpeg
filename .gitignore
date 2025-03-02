@@ -1,0 +1,7 @@
+*.bin
+*.bmp
+*.jpg
+
+# Emacs files
+
+*~
